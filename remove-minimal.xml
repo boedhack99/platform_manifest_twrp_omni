@@ -145,7 +145,6 @@
     <remove-project name="platform/external/sqlite"/>
     <remove-project name="platform/external/stressapptest"/>
     <remove-project name="platform/external/swiftshader"/>
-    <remove-project name="platform/external/syslinux"/>
     <remove-project name="platform/external/tagsoup"/>
     <remove-project name="platform/external/tcpdump"/>
     <remove-project name="platform/external/testng"/>
