@@ -11,8 +11,6 @@
     <remove-project name="platform/compatibility/cdd"/>
     <remove-project name="platform/cts"/>
 
-    <remove-project name="platform/external/abi-compliance-checker"/>
-    <remove-project name="platform/external/abi-dumper"/>
     <remove-project name="platform/external/adt-infra"/>
     <remove-project name="platform/external/android-clat"/>
     <remove-project name="platform/external/androidplot"/>
