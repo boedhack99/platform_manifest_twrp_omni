@@ -177,7 +177,6 @@
     <remove-project name="platform/frameworks/opt/bitmap"/>
     <remove-project name="platform/frameworks/opt/calendar"/>
     <remove-project name="platform/frameworks/opt/colorpicker"/>
-    <remove-project name="platform/frameworks/opt/datetimepicker"/>
     <remove-project name="platform/frameworks/opt/net/ethernet"/>
     <remove-project name="platform/frameworks/opt/net/voip"/>
     <remove-project name="platform/frameworks/opt/photoviewer"/>
