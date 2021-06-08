@@ -97,7 +97,6 @@
     <remove-project name="platform/external/libphonenumber"/>
     <remove-project name="platform/external/libtextclassifier"/>
     <remove-project name="platform/external/libusb"/>
-    <remove-project name="platform/external/libusb-compat"/>
     <remove-project name="platform/external/libvpx"/>
     <remove-project name="platform/external/libvterm"/>
     <remove-project name="platform/external/libyuv"/>
