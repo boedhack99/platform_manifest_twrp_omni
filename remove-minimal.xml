@@ -27,7 +27,6 @@
     <remove-project name="platform/external/cblas"/>
     <remove-project name="platform/external/chromium-libpac"/>
     <remove-project name="platform/external/chromium-trace"/>
-    <remove-project name="platform/external/cmockery"/>
     <remove-project name="platform/external/crcalc"/>
     <remove-project name="platform/external/curl"/>
     <remove-project name="platform/external/dagger2"/>
