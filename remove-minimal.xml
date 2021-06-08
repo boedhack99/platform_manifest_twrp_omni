@@ -32,7 +32,6 @@
     <remove-project name="platform/external/dagger2"/>
     <remove-project name="platform/external/deqp"/>
     <remove-project name="platform/external/desugar"/>
-    <remove-project name="platform/external/devlib"/>
     <remove-project name="platform/external/dexmaker"/>
     <remove-project name="platform/external/dhcpcd-6.8.2"/>
     <remove-project name="platform/external/dng_sdk"/>
