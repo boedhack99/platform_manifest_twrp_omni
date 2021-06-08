@@ -193,7 +193,6 @@
     <remove-project name="android_vendor_qcom_opensource_interfaces"/>
 
     <remove-project name="platform/packages/apps/BasicSmsReceiver"/>
-    <remove-project name="platform/packages/apps/Browser2"/>
     <remove-project name="platform/packages/apps/Camera2"/>
     <remove-project name="platform/packages/apps/CarrierConfig"/>
     <remove-project name="platform/packages/apps/CertInstaller"/>
@@ -302,26 +301,12 @@
 
     <remove-project name="android_hardware_qcom_wlan"/>
 
-    <remove-project name="android_packages_apps_Bluetooth"/>
     <remove-project name="android_packages_apps_Calendar"/>
     <remove-project name="android_packages_apps_CellBroadcastReceiver"/>
     <remove-project name="android_packages_apps_Contacts"/>
-    <remove-project name="android_packages_apps_Dialer"/>
-    <remove-project name="android_packages_apps_DocumentsUI"/>
-    <remove-project name="android_packages_apps_Launcher3"/>
-    <remove-project name="android_packages_apps_Gallery2"/>
-    <remove-project name="android_packages_apps_Messaging"/>
-    <remove-project name="android_packages_apps_MusicFX"/>
     <remove-project name="android_packages_apps_Nfc"/>
     <remove-project name="android_packages_apps_OmniBrain"/>
     <remove-project name="android_packages_apps_OmniLib"/>
-    <remove-project name="android_packages_apps_PhoneCommon"/>
-    <remove-project name="android_packages_apps_Settings"/>
-    <remove-project name="android_packages_apps_SettingsIntelligence"/>
-    <remove-project name="android_packages_inputmethods_LatinIME"/>
-    <remove-project name="android_packages_providers_DownloadProvider"/>
-    <remove-project name="android_packages_services_Telecomm"/>
-    <remove-project name="android_packages_services_Telephony"/>
 
     <remove-project name="android_system_bt"/>
     <remove-project name="android_system_nfc"/>
