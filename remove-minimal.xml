@@ -22,7 +22,6 @@
     <remove-project name="platform/external/apache-xml"/>
     <remove-project name="platform/external/arm-neon-tests"/>
     <remove-project name="platform/external/autotest"/>
-    <remove-project name="platform/external/bart"/>
     <remove-project name="platform/external/blktrace"/>
     <remove-project name="platform/external/caliper"/>
     <remove-project name="platform/external/cblas"/>
