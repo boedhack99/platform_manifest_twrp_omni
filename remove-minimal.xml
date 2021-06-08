@@ -40,7 +40,6 @@
     <remove-project name="platform/external/drrickorang"/>
     <remove-project name="platform/external/easymock"/>
     <remove-project name="platform/external/emma"/>
-    <remove-project name="platform/external/eyes-free"/>
     <remove-project name="platform/external/fdlibm"/>
     <remove-project name="platform/external/fio"/>
     <remove-project name="platform/external/flatbuffers"/>
