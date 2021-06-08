@@ -164,7 +164,6 @@
     <remove-project name="platform/external/webrtc"/>
     <remove-project name="platform/external/wpa_supplicant_8"/>
     <remove-project name="platform/external/wycheproof"/>
-    <remove-project name="platform/external/xmlrpcpp"/>
     <remove-project name="platform/external/xmp_toolkit"/>
     <remove-project name="platform/external/zopfli"/>
     <remove-project name="platform/external/zxing"/>
