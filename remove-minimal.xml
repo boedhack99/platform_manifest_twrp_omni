@@ -136,7 +136,6 @@
     <remove-project name="platform/external/seccomp-tests"/>
     <remove-project name="platform/external/sfntly"/>
     <remove-project name="platform/external/shflags"/>
-    <remove-project name="android_external_skia"/>
     <remove-project name="platform/external/sl4a"/>
     <remove-project name="platform/external/slf4j"/>
     <remove-project name="platform/external/smali"/>
