@@ -176,7 +176,6 @@
     <remove-project name="platform/frameworks/multidex"/>
     <remove-project name="platform/frameworks/opt/bitmap"/>
     <remove-project name="platform/frameworks/opt/calendar"/>
-    <remove-project name="platform/frameworks/opt/chips"/>
     <remove-project name="platform/frameworks/opt/colorpicker"/>
     <remove-project name="platform/frameworks/opt/datetimepicker"/>
     <remove-project name="platform/frameworks/opt/net/ethernet"/>
