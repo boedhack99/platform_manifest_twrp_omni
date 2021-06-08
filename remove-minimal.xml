@@ -67,7 +67,6 @@
     <remove-project name="platform/external/jacoco"/>
     <remove-project name="platform/external/jarjar"/>
     <remove-project name="platform/external/javasqlite"/>
-    <remove-project name="platform/external/javassist"/>
     <remove-project name="platform/external/jcommander"/>
     <remove-project name="platform/external/jdiff"/>
     <remove-project name="platform/external/jline"/>
