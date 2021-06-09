@@ -215,7 +215,6 @@
     <remove-project name="platform/packages/apps/Traceur"/>
     <remove-project name="platform/packages/apps/TvSettings"/>
     <remove-project name="platform/packages/apps/TV"/>
-    <remove-project name="platform/packages/apps/WallpaperPicker"/>
     <remove-project name="platform/packages/providers/BlockedNumberProvider"/>
     <remove-project name="platform/packages/providers/BookmarkProvider"/>
     <remove-project name="platform/packages/providers/CalendarProvider"/>
