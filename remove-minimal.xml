@@ -209,8 +209,6 @@
     <remove-project name="platform/packages/apps/SoundRecorder"/>
     <remove-project name="platform/packages/apps/SpareParts"/>
     <remove-project name="platform/packages/apps/StorageManager"/>
-    <remove-project name="android_packages_apps_Tag"/>
-    <remove-project name="platform/packages/apps/Terminal"/>
     <remove-project name="platform/packages/apps/Test/connectivity"/>
     <remove-project name="platform/packages/apps/TimeZoneData"/>
     <remove-project name="platform/packages/apps/TimeZoneUpdater"/>
@@ -223,7 +221,6 @@
     <remove-project name="platform/packages/providers/CalendarProvider"/>
     <remove-project name="platform/packages/providers/CallLogProvider"/>
     <remove-project name="platform/packages/providers/ContactsProvider"/>
-    <remove-project name="platform/packages/providers/MediaProvider"/>
     <remove-project name="platform/packages/providers/PartnerBookmarksProvider"/>
     <remove-project name="platform/packages/providers/TelephonyProvider"/>
     <remove-project name="platform/packages/providers/TvProvider"/>
