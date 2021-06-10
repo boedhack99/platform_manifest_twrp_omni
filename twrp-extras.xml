@@ -17,7 +17,7 @@
     <project path="system/core" name="android_system_core" remote="TeamWin" revision="android-11" />
 
     <!-- <remove-project name="android_vendor_omni"/> -->
-    <project path="vendor/omni" name="android_vendor_omni" remote="TeamWin" revision="android-10" />
+    <!-- <project path="vendor/omni" name="android_vendor_omni" remote="TeamWin" revision="android-10" /> -->
     <project path="vendor/twrp" name="android_vendor_twrp" remote="TeamWin" revision="android-11" />
 
     <!-- <remove-project name="android_build" /> -->
