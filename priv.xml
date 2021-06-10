@@ -9,7 +9,7 @@
             review="https://review.lineageos.org" />
 
 <!-- TWRP lives in TeamWin android-10.0 (not AOSP!) -->
-    <!-- <remove-project name="platform/bootable/recovery"/> -->
+    <remove-project name="platform/bootable/recovery"/>
     <project path="bootable/recovery" name="android_bootable_recovery" remote="TeamWin" revision="android-11" />
 
 <!-- Use TeamWin repos for full recovery compatibility -->
