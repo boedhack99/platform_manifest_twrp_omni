@@ -166,7 +166,6 @@
     <remove-project name="platform/external/snakeyaml"/>
     <remove-project name="platform/external/sonic"/>
     <remove-project name="platform/external/sonivox"/>
-    <remove-project name="platform/external/spirv-llvm"/>
     <!--<remove-project name="platform/external/sqlite"/>-->
     <remove-project name="platform/external/stressapptest"/>
     <remove-project name="platform/external/swiftshader"/>
