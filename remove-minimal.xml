@@ -44,7 +44,6 @@
     <remove-project name="platform/external/dnsmasq"/>
     <remove-project name="platform/external/doclava"/>
     <remove-project name="platform/external/drm_hwcomposer"/>
-    <remove-project name="platform/external/droiddriver"/>
     <remove-project name="platform/external/drrickorang"/>
     <remove-project name="platform/external/easymock"/>
     <remove-project name="platform/external/emma"/>
