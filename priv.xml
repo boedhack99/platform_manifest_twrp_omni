@@ -8,8 +8,8 @@
             fetch="https://github.com/LineageOS"
             review="https://review.lineageos.org" />
 
-  <project path="art" name="android_art" remote="LineageOS" revision="lineage-18.1" groups="pdk" />
-  <project path="bionic" name="android_bionic" remote="LineageOS" revision="lineage-18.1" groups="pdk" />
+  <!-- <project path="art" name="android_art" remote="LineageOS" revision="lineage-18.1" groups="pdk" />
+  <!-- <project path="bionic" name="android_bionic" remote="LineageOS" revision="lineage-18.1" groups="pdk" /> -->
 
 <!-- TWRP lives in TeamWin android-10.0 (not AOSP!) -->
     <remove-project name="platform/bootable/recovery"/>
