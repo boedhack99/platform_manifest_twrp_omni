@@ -23,10 +23,10 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project> -->
-  <project path="build/soong" name="android_build_soong" remote="omnirom" revision="android-11" >
+  <!-- <project path="build/soong" name="android_build_soong" remote="omnirom" revision="android-11" >
       <linkfile src="root.bp" dest="Android.bp" />
       <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
-  </project>
+  </project> -->
 
   <!-- <project path="development" name="android_development" remote="omnirom" revision="android-9.0" groups="pdk-cw-fs,pdk-fs" /> -->
 
