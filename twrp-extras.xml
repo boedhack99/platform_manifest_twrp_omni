@@ -58,5 +58,7 @@
 
 <!-- Include Teamwin android_hardware_qcom_bootctrl to build a good update_engine_sideload -->
     <!-- <project path="hardware/qcom/bootctrl" name="android_hardware_qcom_bootctrl" remote="TeamWin" revision="android-10.0" /> -->
+
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="boedhack99/aarch64-linux-android-4.9" groups="pdk,linux,arm" clone-depth="1" remote="priv" revision="master" />
 </manifest>
 
