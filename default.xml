@@ -356,7 +356,6 @@
   <project path="external/python/olefile" name="platform/external/python/olefile" groups="vts,pdk" />
   <project path="external/python/packaging" name="platform/external/python/packaging" groups="vts,pdk" />
   <project path="external/python/parse" name="platform/external/python/parse" groups="vts,pdk" />
-  <project path="external/python/Pillow" name="platform/external/python/Pillow" groups="vts,pdk" />
   <project path="external/python/ply" name="platform/external/python/ply" groups="vts,pdk" />
   <project path="external/python/pluggy" name="platform/external/python/pluggy" groups="pdk" />
   <project path="external/python/proto-google-cloud-pubsub-v1" name="platform/external/python/proto-google-cloud-pubsub-v1" groups="vts,pdk" />
