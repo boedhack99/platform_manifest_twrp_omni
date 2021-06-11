@@ -154,7 +154,6 @@
     <remove-project name="platform/external/python/cpython3"/>
     <remove-project name="platform/external/replicaisland"/>
     <remove-project name="platform/external/rmi4utils"/>
-    <remove-project name="platform/external/robolectric"/>
     <remove-project name="platform/external/roboto-fonts"/>
     <remove-project name="platform/external/rootdev"/>
     <remove-project name="platform/external/seccomp-tests"/>
