@@ -110,7 +110,6 @@
     <!--<remove-project name="platform/external/libmicrohttpd"/>-->
     <!--<remove-project name="platform/external/libmojo"/>-->
     <remove-project name="platform/external/libmpeg2"/>
-    <remove-project name="platform/external/libmtp"/>
     <remove-project name="platform/external/libogg"/>
     <remove-project name="platform/external/libopus"/>
     <remove-project name="platform/external/libpcap"/>
