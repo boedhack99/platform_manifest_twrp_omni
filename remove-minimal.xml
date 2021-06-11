@@ -235,7 +235,6 @@
     <remove-project name="platform/packages/apps/CarrierConfig"/>
     <remove-project name="platform/packages/apps/CertInstaller"/>
     <remove-project name="platform/packages/apps/DevCamera"/>
-    <remove-project name="platform/packages/apps/Email"/>
     <remove-project name="platform/packages/apps/ExactCalculator"/>
     <remove-project name="platform/packages/apps/HTMLViewer"/>
     <remove-project name="platform/packages/apps/KeyChain"/>
@@ -259,7 +258,6 @@
     <remove-project name="platform/packages/apps/Traceur"/>
     <remove-project name="platform/packages/apps/TvSettings"/>
     <remove-project name="platform/packages/apps/TV"/>
-    <remove-project name="platform/packages/apps/UnifiedEmail"/>
     <!--<remove-project name="platform/packages/apps/WallpaperPicker"/>-->
     <!--<remove-project name="platform/packages/experimental"/>-->
     <!--<remove-project name="platform/packages/inputmethods/OpenWnn"/>-->
