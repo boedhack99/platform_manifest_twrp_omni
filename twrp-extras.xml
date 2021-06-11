@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="priv"
-            fetch="https://github.com/nebrassy" />
+            fetch="https://github.com" />
 
     <remote name="TeamWin"
             fetch="https://github.com/TeamWin"
@@ -13,7 +13,7 @@
 
 <!-- TWRP lives in TeamWin android-10.0 (not AOSP!) -->
     <remove-project name="platform/bootable/recovery"/>
-    <project path="bootable/recovery" name="android_bootable_recovery" remote="priv" revision="android-11" />
+    <project path="bootable/recovery" name="omnirom/android_bootable_recovery" remote="priv" revision="android-11" />
 
 <!-- Use TeamWin repos for full recovery compatibility -->
     <project path="system/core" name="android_system_core" remote="TeamWin" revision="android-11" />
