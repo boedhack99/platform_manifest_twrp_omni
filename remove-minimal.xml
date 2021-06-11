@@ -260,7 +260,6 @@
     <!--<remove-project name="platform/packages/apps/WallpaperPicker"/>-->
     <!--<remove-project name="platform/packages/experimental"/>-->
     <!--<remove-project name="platform/packages/inputmethods/OpenWnn"/>-->
-    <remove-project name="platform/packages/providers/ApplicationsProvider"/>
     <remove-project name="platform/packages/providers/BlockedNumberProvider"/>
     <remove-project name="platform/packages/providers/BookmarkProvider"/>
     <remove-project name="platform/packages/providers/CalendarProvider"/>
