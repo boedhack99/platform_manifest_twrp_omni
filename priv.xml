@@ -8,6 +8,9 @@
             fetch="https://github.com/LineageOS"
             review="https://review.lineageos.org" />
 
+  <project path="art" name="android_art" remote="LineageOS" revision="lineage-18.1" groups="pdk" />
+  <project path="bionic" name="android_bionic" remote="LineageOS" revision="lineage-18.1" groups="pdk" />
+
 <!-- TWRP lives in TeamWin android-10.0 (not AOSP!) -->
     <remove-project name="platform/bootable/recovery"/>
     <project path="bootable/recovery" name="android_bootable_recovery" remote="TeamWin" revision="android-11" />
@@ -39,7 +42,7 @@
 <!-- Include external Magisk repo for repack binaries -->
     <project path="external/magisk-prebuilt" name="external_magisk-prebuilt" remote="TeamWin" revision="android-11" />
 
-  <!-- <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="LineageOS" revision="lineage-18.1" /> -->
+  <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="LineageOS" revision="lineage-18.1" />
 
 <!-- Include lineage-tools for lzma support -->
     <project path="prebuilts/tools-lineage" name="android_prebuilts_tools-lineage" remote="LineageOS" revision="lineage-18.1" />
